@@ -16,9 +16,5 @@
   "bugs": {
     "url": "https://github.com/OrlandoMendoza17/orlando-prueba/issues"
   },
-  "homepage": "https://github.com/OrlandoMendoza17/orlando-prueba/#readme",
-  "bin": {
-    "orlando-prueba": "./bin/global.js"
-  },
-  "preferGlobal": true
+  "homepage": "https://github.com/OrlandoMendoza17/orlando-prueba/#readme"
 }
